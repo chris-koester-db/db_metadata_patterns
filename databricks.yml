@@ -2,6 +2,7 @@
 # See https://docs.databricks.com/dev-tools/bundles/index.html for documentation.
 bundle:
   name: db_meta
+  uuid: 8e201cb8-9899-483e-8487-c39cb011128b
 
 variables:
   pl_target_catalog:
